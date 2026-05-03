@@ -81,106 +81,63 @@
 ## 🚀 주요 기능 화면
 
 ### 1. 홈
+#### 홈 화면
+<img src="./images/홈화면.png" width="800"/>
 
-<table>
-  <tbody>
-    <tr>
-      <td>홈 화면</td>
-      <td>베스트 슬라이더</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="./images/홈화면.png" width="400"/>
-      </td>
-      <td>
-        <img src="./images/BEST.png" width="400"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 베스트 슬라이더
+<img src="./images/BEST.png" width="800"/>
+
+---
 
 ### 2. 상품 목록 & 상세
+#### 카테고리 (상의 / 하의 / 아우터)
+<img src="./images/상의.png" width="800"/>
+<img src="./images/하의.png" width="800"/>
+<img src="./images/아우터.png" width="800"/>
 
-<table>
-  <tbody>
-    <tr>
-      <td>카테고리 상품 목록</td>
-      <td>상품 상세 페이지</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="./images/상의.png" width="400"/><br/>
-        <img src="./images/하의.png" width="400"/><br/>
-        <img src="./images/아우터.png" width="400"/>
-      </td>
-      <td>
-        <img src="./images/주문하기.png" width="400"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 상품 상세 / 주문
+<img src="./images/주문하기.png" width="800"/>
+
+---
 
 ### 3. 장바구니 & 결제
+#### 장바구니
+<img src="./images/장바구니.png" width="800"/>
 
-<table>
-  <tbody>
-    <tr>
-      <td>장바구니</td>
-      <td>결제 페이지</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="./images/장바구니.png" width="400"/>
-      </td>
-      <td>
-        <img src="./images/주문하기.png" width="400"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 결제
+<img src="./images/주문하기.png" width="800"/>
+
+---
 
 ### 4. 로그인 & 회원가입
+#### 로그인
+<img src="./images/로그인.png" width="800"/>
 
-<table>
-  <tbody>
-    <tr>
-      <td>로그인</td>
-      <td>회원가입</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="./images/로그인.png" width="400"/><br/>
-        <img src="./images/사용자_로그인성공.png" width="400"/><br/>
-        <img src="./images/관리자_로그인성공.png" width="400"/>
-      </td>
-      <td>
-        <img src="./images/회원가입.png" width="400"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 로그인 성공 (사용자 / 관리자)
+<img src="./images/사용자_로그인성공.png" width="800"/>
+<img src="./images/관리자_로그인성공.png" width="800"/>
+
+#### 회원가입
+<img src="./images/회원가입.png" width="800"/>
+
+---
 
 ### 5. 마이페이지
 
-<table>
-  <tbody>
-    <tr>
-      <td>유저 마이페이지</td>
-      <td>관리자 페이지</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="./images/마이페이지_주문관리.png" width="400"/><br/>
-        <img src="./images/마이페이지_리뷰관리.png" width="400"/>
-      </td>
-      <td>
-        <img src="./images/상품추가.png" width="400"/><br/>
-        <img src="./images/재고관리.png" width="400"/><br/>
-        <img src="./images/재고관리_옵션추가.png" width="400"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 유저 마이페이지 - 주문 관리
+<img src="./images/마이페이지_주문관리.png" width="800"/>
+
+#### 유저 마이페이지 - 리뷰 관리
+<img src="./images/마이페이지_리뷰관리.png" width="800"/>
+
+#### 관리자 - 상품 추가
+<img src="./images/상품추가.png" width="800"/>
+
+#### 관리자 - 재고 관리
+<img src="./images/재고관리.png" width="800"/>
+
+#### 관리자 - 옵션 추가
+<img src="./images/재고관리_옵션추가.png" width="800"/>
 ---
 
 ## 🛠️ 기술 스택
