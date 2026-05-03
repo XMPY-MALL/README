@@ -78,7 +78,6 @@
 - 역할 기반 접근 제어 (일반 유저 / 관리자)
 
 ---
-
 ## 🚀 주요 기능 화면
 
 ### 1. 홈
@@ -91,10 +90,10 @@
     </tr>
     <tr>
       <td>
-        <!-- 홈 화면 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/홈화면.png" width="400"/>
       </td>
       <td>
-        <!-- 베스트 슬라이더 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/BEST.png" width="400"/>
       </td>
     </tr>
   </tbody>
@@ -110,10 +109,12 @@
     </tr>
     <tr>
       <td>
-        <!-- 카테고리 상품 목록 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/상의.png" width="400"/><br/>
+        <img src="./images/하의.png" width="400"/><br/>
+        <img src="./images/아우터.png" width="400"/>
       </td>
       <td>
-        <!-- 상품 상세 페이지 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/주문하기.png" width="400"/>
       </td>
     </tr>
   </tbody>
@@ -129,10 +130,10 @@
     </tr>
     <tr>
       <td>
-        <!-- 장바구니 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/장바구니.png" width="400"/>
       </td>
       <td>
-        <!-- 결제 페이지 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/주문하기.png" width="400"/>
       </td>
     </tr>
   </tbody>
@@ -148,10 +149,12 @@
     </tr>
     <tr>
       <td>
-        <!-- 로그인 화면 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/로그인.png" width="400"/><br/>
+        <img src="./images/사용자_로그인성공.png" width="400"/><br/>
+        <img src="./images/관리자_로그인성공.png" width="400"/>
       </td>
       <td>
-        <!-- 회원가입 화면 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/회원가입.png" width="400"/>
       </td>
     </tr>
   </tbody>
@@ -167,27 +170,17 @@
     </tr>
     <tr>
       <td>
-        <!-- 유저 마이페이지 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/마이페이지_주문관리.png" width="400"/><br/>
+        <img src="./images/마이페이지_리뷰관리.png" width="400"/>
       </td>
       <td>
-        <!-- 관리자 페이지 이미지를 여기에 첨부해 주세요 -->
-      </td>
-    </tr>
-    <tr>
-      <td>상품 등록</td>
-      <td>재고 관리</td>
-    </tr>
-    <tr>
-      <td>
-        <!-- 상품 등록 이미지를 여기에 첨부해 주세요 -->
-      </td>
-      <td>
-        <!-- 재고 관리 이미지를 여기에 첨부해 주세요 -->
+        <img src="./images/상품추가.png" width="400"/><br/>
+        <img src="./images/재고관리.png" width="400"/><br/>
+        <img src="./images/재고관리_옵션추가.png" width="400"/>
       </td>
     </tr>
   </tbody>
 </table>
-
 ---
 
 ## 🛠️ 기술 스택
