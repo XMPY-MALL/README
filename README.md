@@ -137,7 +137,7 @@
 <img src="./images/상품추가.png" width="800"/>
 
 #### 관리자 - 재고 관리
-<img src="./images/재고관리.png" width="800"/>
+<img src="./images/재고_관리.png" width="800"/>
 
 #### 관리자 - 옵션 추가
 <img src="./images/재고관리_옵션추가.png" width="800"/>
