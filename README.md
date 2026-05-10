@@ -10,7 +10,7 @@
 ## 📋 프로젝트 개요
 
 - **프로젝트명**: XMPY MALL
-- **팀명**: 1조
+- **팀명**: XMPY
 - **프로젝트 타입**: Full-stack Web Application (React + Spring Boot)
 
 ---
