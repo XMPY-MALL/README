@@ -79,7 +79,7 @@
 
 ---
 ## 🛢️ ERD
-<img src="./images/ERD.png" width="800"/>
+<img src="./images/ERD.jpg" width="800"/>
 
 ---
 ## 🚀 주요 기능 화면
