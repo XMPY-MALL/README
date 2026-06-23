@@ -86,30 +86,25 @@
 
 ### 1. 홈
 #### 홈 화면
-<img src="./images/홈화면.png" width="800"/>
-
+> 📷 스크린샷 준비 중
 #### 베스트 슬라이더
-<img src="./images/BEST.png" width="800"/>
-
+> 📷 스크린샷 준비 중
 ---
 
 ### 2. 상품 목록 & 상세
 #### 카테고리 (상의 / 하의 / 아우터)
-<img src="./images/상의.png" width="800"/>
-<img src="./images/하의.png" width="800"/>
-<img src="./images/아우터.png" width="800"/>
-
+> 📷 스크린샷 준비 중
 #### 상품 상세 / 주문
-<img src="./images/주문하기.png" width="800"/>
+> 📷 스크린샷 준비 중
 
 ---
 
 ### 3. 장바구니 & 결제
 #### 장바구니
-<img src="./images/장바구니.png" width="800"/>
+> 📷 스크린샷 준비 중
 
 #### 결제
-<img src="./images/주문하기.png" width="800"/>
+> 📷 스크린샷 준비 중
 
 ---
 
